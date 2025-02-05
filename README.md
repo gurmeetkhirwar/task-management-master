@@ -32,7 +32,7 @@ A task management web application built with React, TypeScript, Redux Toolkit, a
 - React Icons
 - Vite (build tool)
 
-## Installation
+## Installation and start project on dev server
 
 1. **Clone the repository**
 
