@@ -2,8 +2,6 @@
 
 A task management web application built with React, TypeScript, Redux Toolkit, and Tailwind CSS.
 
-![Task Management App Preview](https://via.placeholder.com/800x600.png?text=Task+Management+App+Preview)
-
 ## Features
 
 - **CRUD Operations**: Create, Read, Update, and Delete tasks
@@ -43,13 +41,13 @@ A task management web application built with React, TypeScript, Redux Toolkit, a
   cd task-management-app
 ```
 
-2.**Install dependencies**
+2. **Install dependencies**
 
 ```bash
   npm install
 ```
 
-3.**Run the development server**
+3. **Run the development server**
 
 ```bash
   npm run dev
