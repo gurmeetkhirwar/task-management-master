@@ -2,6 +2,27 @@
 
 A task management web application built with React, TypeScript, Redux Toolkit, and Tailwind CSS.
 
+## Installation and start project on dev server
+
+1. **Clone the repository**
+
+```bash
+  git clone https://github.com/yourusername/task-management-app.git
+  cd task-management-app
+```
+
+2. **Install dependencies**
+
+```bash
+  npm install
+```
+
+3. **Run the development server**
+
+```bash
+  npm run dev
+```
+
 ## Features
 
 - **CRUD Operations**: Create, Read, Update, and Delete tasks
@@ -31,24 +52,3 @@ A task management web application built with React, TypeScript, Redux Toolkit, a
 - Tailwind CSS
 - React Icons
 - Vite (build tool)
-
-## Installation and start project on dev server
-
-1. **Clone the repository**
-
-```bash
-  git clone https://github.com/yourusername/task-management-app.git
-  cd task-management-app
-```
-
-2. **Install dependencies**
-
-```bash
-  npm install
-```
-
-3. **Run the development server**
-
-```bash
-  npm run dev
-```
