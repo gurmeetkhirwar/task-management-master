@@ -8,7 +8,7 @@ A task management web application built with React, TypeScript, Redux Toolkit, a
 
 ```bash
   git clone https://github.com/gurmeetkhirwar/task-management-master.git
-  cd task-management-app
+  cd task-management-master
 ```
 
 2. **Install dependencies**
